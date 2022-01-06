@@ -1,0 +1,87 @@
+.flexible_container{
+    display: flex;
+    margin-bottom: 130px;
+    
+}
+.display_width{
+    width: 50%;
+    margin: 20px 60px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 span{
+    color: orange;
+}
+
+.title{
+    
+    padding-left: 5px;
+    margin-top: 60px;
+    border-left: 3px solid orangered;
+    
+}
+a{
+    padding: 5px 10px;
+    background-color: orangered;
+    color: white;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+.small_text{
+    margin-top: 60px;
+}
+.container{
+    background-color: tomato;
+    width: 30%;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+h2{
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+.next_part{
+    text-align: center;
+    font-weight: bold;
+}
+.Extra{
+    margin-left: 60px;
+    margin-right: 50px;
+}
+
+#first_con{
+    background-color: #CAF1DE;
+}
+#second_con{
+    background-color: #F1C4E5;
+}
+#third_con{
+    background-color: #FBF5E0;
+}
+.list_item{
+    display: flex;
+    float: left;
+}
+li{
+    display: inline;
+    padding: 10px 30px;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+}
+.list{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
